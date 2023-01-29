@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+	@apply bg-black
+}
+
+input, select, label {
+	@apply block
+}
+
+label {
+	@apply mt-4
+}
+
+input, select, textarea {
+	@apply rounded mt-1 mb-3 p-2 w-full
+}
+
+textarea {
+	@apply bg-neutral-300
+}
