@@ -1,5 +1,9 @@
 <h1 align="center">Base Converter</h1>
 
+<h1 align="center">
+  <img alt="Base Converter" title="Base Converter" src=".github/preview.png" />
+</h1>
+
 ## 💻 Projeto
 
 O Base Converter é uma calculadora de conversão de base numérica, que utiliza as bases numéricas mais conhecidas: binária (2), octal (8), decimal (10) e hexadecimal (16).
